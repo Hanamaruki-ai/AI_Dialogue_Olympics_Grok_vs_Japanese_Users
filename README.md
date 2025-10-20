@@ -1,7 +1,6 @@
 # AI_Dialogue_Olympics_Grok_vs_Japanese_Users
 このリポジトリは、**AIと人間の対話が文化構造によってどのようにすれ違うか**を研究・記録したプロジェクトです。   「AI対話オリンピック」と題し、   **論理主義的AI（Grok型）**と**文脈主義的日本ユーザー**の両者が「会話でつまずく30の典型例」を収集・比較しています。
 
-# AI_Dialogue_Olympics_Grok_vs_Japanese_Users
 ### ― AI対話オリンピック：グロック西洋代表 vs 日本ユーザー代表 トップ30頂上決戦 ―
 
 ---
